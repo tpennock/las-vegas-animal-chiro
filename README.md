@@ -1,1 +1,2 @@
-# Website @ lasvegasanimalchiro.com by Dr. Sid Carter
+# Website @ lasvegasanimalchiro.com
+- by Dr. Sid Carter
