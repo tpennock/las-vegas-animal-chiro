@@ -5,6 +5,45 @@
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
 
+body {
+	background: #929292;
+}
 
+#page-title {
+    padding: 20px 0;
+    background-color: #336699;
+    border-bottom: 1px solid #3b537f;
+}
+#page-title h1,
+#page-title.page-title-mini h1 {
+	color: #fff;
+}
 
+.promo.promo-dark h4,
+.promo.promo-dark h4 span,
+.promo.promo-dark small {
+    color: #fff;
+}
 
+.lvac-avca-logo {
+	position: absolute;
+	padding: 40px;
+	right: 0;
+	opacity: 0.2;
+}
+.lvac-avca-logo.top{
+	top: 0;
+}
+.lvac-avca-logo.bottom {
+	bottom: 0;
+}
+
+.lvac-about-bg {
+	background: url('../images/lvac/about_bg.jpg') no-repeat;
+    width: 875px;
+    height: 516px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    margin-left: 35px;
+}

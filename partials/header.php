@@ -55,7 +55,7 @@ $lvac_email = 'lasvegasanimalchiro@gmail.com';
 
 </head>
 
-<body class="stretched" data-speed-in="300" data-speed-out="100">
+<body data-speed-in="900" data-speed-out="100">
 
 
 	<!-- Document Wrapper
@@ -63,3 +63,16 @@ $lvac_email = 'lasvegasanimalchiro@gmail.com';
 	<div id="wrapper" class="clearfix">
 
 		<?php include 'partials/nav-bar.php';?>
+
+		<!-- Page Title
+		============================================= -->
+		<?php if ($active_page != $base_url . 'index.php') : ?>
+		<section id="page-title" class="page-title-mini">
+
+			<div class="container clearfix">
+				<h1><?php echo $pages[$active_page]; ?></h1>
+			</div>
+
+		</section>
+		<?php endif; ?>
+		<!-- #page-title end -->

@@ -1,18 +1,6 @@
 <?php include 'partials/header.php';?>
 
 
-<!-- Page Title
-============================================= -->
-<!--<section id="page-title" class="page-title-mini">-->
-<section id="page-title">
-
-	<div class="container clearfix">
-		<h1><?php echo $pages[$active_page]; ?></h1>
-	</div>
-
-</section><!-- #page-title end -->
-
-
 <!-- Content
 ============================================= -->
 <section id="content">
@@ -20,6 +8,10 @@
     <div class="content-wrap">
 
         <div class="container clearfix">
+
+            <div class="lvac-avca-logo bottom">
+                <img src="images/lvac/avca.jpg">
+            </div>
 
             <!-- Post Content
             ============================================= -->
