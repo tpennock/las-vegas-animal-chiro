@@ -56,6 +56,7 @@ $lvac_email = 'lasvegasanimalchiro@gmail.com';
 </head>
 
 <body data-speed-in="900" data-speed-out="100">
+	<?php include 'js/sctag.html'; ?>
 
 
 	<!-- Document Wrapper
