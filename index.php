@@ -16,19 +16,12 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide dark">
+				<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/2.jpg');">
 					<div class="container clearfix">
 						<div class="slider-caption slider-caption-center">
 							<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
 							<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
 						</div>
-					</div>
-					<div class="video-wrap">
-						<video poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-							<source src='images/videos/explore.mp4' type='video/mp4' />
-							<source src='images/videos/explore.webm' type='video/webm' />
-						</video>
-						<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
 					</div>
 				</div>
 				<div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
