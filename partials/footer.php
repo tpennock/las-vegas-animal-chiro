@@ -14,7 +14,7 @@
 					</div>
 
                     <div class="col_one_third">
-                        <div class="widget subscribe-widget clearfix">
+                        <!-- <div class="widget subscribe-widget clearfix">
                             <h5><strong>Join</strong> our mailing list for special offers and news:</h5>
                             <div class="widget-subscribe-form-result"></div>
                             <form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin">
@@ -26,7 +26,7 @@
                                     </span>
                                 </div>
                             </form>
-                        </div>
+                        </div> -->
 						<div class="widget subscribe-widget center clearfix">
                             <h5><strong>Join</strong> our mailing list for special offers and news:</h5>
                             <div>

@@ -8,27 +8,35 @@
 
 		<div class="swiper-container swiper-parent">
 			<div class="swiper-wrapper">
-				<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
+				<!-- <div class="swiper-slide dark" style="background-image: url('images/lvac/banner/horse.jpg'); background-position: 50% 75%;">
 					<div class="container clearfix">
 						<div class="slider-caption slider-caption-center">
-							<h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
+							<h2 data-caption-animate="fadeInUp">Restoring Health</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">"Within moments of his first adjustment, he was standing squarely on all four feet, &amp; appeared to be free of any discomfort."</p>
+						</div>
+					</div>
+				</div> -->
+				<div class="swiper-slide dark" style="background-image: url('images/lvac/banner/horse-2.jpg'); background-position: 50% 60%;">
+					<div class="container clearfix">
+						<div class="slider-caption slider-caption-center">
+							<h2 data-caption-animate="fadeInUp">Restoring Health</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">"Within moments of his first adjustment, he was standing squarely on all four feet, &amp; appeared to be free of any discomfort."</p>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/2.jpg');">
+				<div class="swiper-slide dark" style="background-image: url('images/lvac/banner/golden-retriever.jpg');">
 					<div class="container clearfix">
-						<div class="slider-caption slider-caption-center">
-							<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+						<div class="slider-caption slider-caption-right">
+							<h2 data-caption-animate="fadeInUp">Healing Family Members</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">"Regular chiropractic care has helped him become an active part of the family again."</p>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+				<div class="swiper-slide dark" style="background-image: url('images/lvac/banner/great-dane.jpg');">
 					<div class="container clearfix">
 						<div class="slider-caption">
-							<h2 data-caption-animate="fadeInUp">Great Performance</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+							<h2 data-caption-animate="fadeInUp">Empowering Athletes</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">"He literally smiled as he walked, showing how much better he instantly felt from the adjustment."</p>
 						</div>
 					</div>
 				</div>
