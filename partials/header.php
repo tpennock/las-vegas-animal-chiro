@@ -67,13 +67,13 @@ $lvac_email = 'lasvegasanimalchiro@gmail.com';
 
 		<!-- Page Title
 		============================================= -->
-		<?php if ($active_page != $base_url . 'index.php') : ?>
-		<section id="page-title" class="page-title-mini">
+		<?php //if ($active_page != $base_url . 'index.php') : ?>
+		<!-- <section id="page-title" class="page-title-mini">
 
 			<div class="container clearfix">
 				<h1><?php echo $pages[$active_page]; ?></h1>
 			</div>
 
-		</section>
-		<?php endif; ?>
+		</section> -->
+		<?php //endif; ?>
 		<!-- #page-title end -->
