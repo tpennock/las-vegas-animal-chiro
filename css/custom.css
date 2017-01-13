@@ -25,6 +25,35 @@ body {
     color: #fff;
 }
 
+#header,
+#header-wrap {
+	height: 191px;
+}
+
+#logo img {
+	height: 60px;
+}
+
+#primary-menu ul li > a {
+	padding: 15px !important;
+}
+
+#header.sticky-header:not(.static-sticky),
+#header.sticky-header:not(.static-sticky) #header-wrap,
+#header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img { height: 191px; }
+
+@media (max-width: 991px) {
+	#primary-menu-trigger {
+	    top: 0;
+	}
+	#logo {
+		height: 52px;
+		min-height: 52px;
+	}
+}
+
+
+
 .lvac-avca-logo {
 	position: absolute;
 	padding: 40px;
@@ -46,4 +75,28 @@ body {
     font-weight: bold;
     position: relative;
     margin-left: 35px;
+}
+
+.lvac-header-table {
+	margin-bottom: 0;
+}
+
+.lvac-header-table-content {
+	width: 978px;
+	height: 139px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.lvac-header-table-side {
+	background-repeat: repeat-x;
+}
+
+@media (max-width: 991px) {
+	.lvac-header-table-content {
+		height: 15vw;
+	}
+	.lvac-header-table-side {
+		display: none;
+	}
 }
